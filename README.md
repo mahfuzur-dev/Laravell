@@ -9,3 +9,5 @@ note: Npm download
 npm install
 
 npm run dev
+npm run build
+
